@@ -20,7 +20,7 @@ I'm a Freshman at Northwestern University studying Mathematics and Computer Scie
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## Github Stats
+<!-- ## Github Stats -->
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ryanp8&show_icons=true&theme=tokyonight) -->
 
 
