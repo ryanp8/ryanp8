@@ -21,7 +21,7 @@ I'm a student at Northwestern University studying Mathematics and Computer Scien
 </div>
 
 <!-- ## Github Stats -->
-[Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ryanp8&show_icons=true&theme=tokyonight)
+<!-- [Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ryanp8&show_icons=true&theme=tokyonight) -->
 
 
 
