@@ -1,6 +1,6 @@
 ## Hi, I'm Ryan 👋
 
-I'm a student at Northwestern University studying Math and Computer Science.
+I'm a student at Northwestern University studying math and computer science.
 
 ## Languages and Tools
 <div>
